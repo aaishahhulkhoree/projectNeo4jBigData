@@ -6,7 +6,6 @@ Ce projet Big Data vise à exploiter et analyser un ensemble de données volumin
 ## 🛠️ Technologies utilisées  
 - **Neo4j** : Base de données orientée graphe pour la modélisation et l'analyse des relations entre les données.  
 - **Cypher** : Langage de requête pour manipuler et interroger la base Neo4j.  
-- **Talend** : Outil d'intégration de données pour la transformation et le chargement des données.  
 - **Java 21 LTS** : Langage de programmation utilisé pour le traitement et l'analyse avancée des données.  
 
 ## 📂 Structure du projet  
